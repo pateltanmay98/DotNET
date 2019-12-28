@@ -1,0 +1,30 @@
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.exe.config
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.exe
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.pdb
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.xml
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.Form1.resources
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.Resources.resources
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.vbproj.GenerateResource.Cache
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.exe
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.xml
+D:\T36\4th sem\dotnet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.pdb
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.exe.config
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.exe
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.xml
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.pdb
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.exe
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.pdb
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.xml
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.Form1.resources
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.Resources.resources
+E:\Tanmay's Assignment Don't DELETE\Sem 4\Dot Net\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.vbproj.GenerateResource.Cache
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.exe.config
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.exe
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.xml
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.pdb
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.exe
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.pdb
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\bin\Debug\secondappcalcu.xml
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.Form1.resources
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.Resources.resources
+E:\Tanmay Diploma Engineering\Sem 4\DotNet\secondappcalcu\secondappcalcu\obj\Debug\secondappcalcu.vbproj.GenerateResource.Cache
